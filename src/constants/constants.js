@@ -1,0 +1,11 @@
+export const CREATE_NEW_TASK = "Create New Task";
+export const CREATE_TASK = "Create Task";
+export const INPUT_TYPE_TEXT = "text";
+export const INPUT_TYPE_TEXT_AREA = "textarea";
+export const INPUT_TYPE_DATE = "date";
+export const INPUT_TYPE_BUTTON = "button";
+export const CLOSE_FORM = "Close";
+export const DELETE_TEXT = "Delete";
+export const UPDATE_TEXT = "Update";
+export const SUBMIT_TEXT = "Submit";
+export const CANCEL_TEXT = "Cancel";
